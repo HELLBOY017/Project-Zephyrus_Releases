@@ -27,3 +27,5 @@ Privacy: Project-Zephyrus helps keep your Data Private with Camera & Microphone 
 ### Download Count By Build Version
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HELLBOY017/Project-Zephyrus_Releases/12.6.0_r8-B1-8Pro/total.svg)](https://github.com/HELLBOY017/Project-Zephyrus_Releases/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HELLBOY017/Project-Zephyrus_Releases/12.6.0_r8-B1/total.svg)](https://github.com/HELLBOY017/Project-Zephyrus_Releases/releases)
